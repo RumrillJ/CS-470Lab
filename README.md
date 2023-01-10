@@ -1,2 +1,1 @@
-# CS-470Lab
-Lab 1 of CS470 
+# CS-470Labs
