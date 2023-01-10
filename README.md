@@ -1,1 +1,1 @@
-# CS-470Labs
+# CS-OS470-LabAssignments
